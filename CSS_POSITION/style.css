@@ -1,0 +1,13 @@
+body {
+  height: 4000px;
+  background-color: lightgreen;
+}
+
+.static {
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  font-size: 40px;
+  background-color: yellow;
+  left: 400px;
+}

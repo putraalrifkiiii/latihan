@@ -1,0 +1,16 @@
+p {
+  font-size: 70px;
+  color: blue;
+  text-align: justify;
+  text-decoration: underline;
+  text-transform: capitalize;
+  /* text-indent: 50px; */
+  /* line-height: 50px; */
+  /* letter-spacing: 10px; */
+  /* word-spacing: 100px; */
+  /* white-space: pre; */
+  text-shadow: 10px 5px 50px black;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  direction: rtl;
+}

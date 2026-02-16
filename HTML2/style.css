@@ -1,0 +1,23 @@
+.satu {
+  color: rgba(74, 194, 234, 100%);
+  font-size: 40px;
+  background-color: yellow;
+  /* opacity: 50%; */
+  color: hsl(150, 100%, 50%);
+}
+
+.dua {
+  color: currentColor;
+}
+
+body {
+  margin: 100px;
+}
+
+div {
+  border-top: 10px solid purple;
+  border-bottom: 10px solid black;
+  border-left: 10px solid green;
+  border-right: 10px solid gray;
+  border-radius: 10px;
+}

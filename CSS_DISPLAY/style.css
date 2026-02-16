@@ -1,0 +1,31 @@
+body {
+  font-size: 40px;
+}
+
+.block {
+  display: block;
+  background-color: blue;
+  color: black;
+}
+.inline {
+  display: inline;
+  background-color: blue;
+  color: black;
+}
+
+.inline-block {
+  display: inline-block;
+  background-color: blue;
+  color: black;
+}
+
+.flex {
+  display: flex;
+  background-color: blue;
+}
+
+.pertama {
+  display: inline-block;
+  width: 400px;
+  background-color: yellow;
+}

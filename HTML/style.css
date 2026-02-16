@@ -1,0 +1,71 @@
+h1 {
+  color: pink;
+  font-size: 100px;
+  font-weight: 900px;
+  background-color: yellow;
+}
+
+p {
+  color: pink;
+  font-size: 50px;
+  font-weight: 900px;
+  /* background-color: red; */
+}
+
+.coba1 {
+  color: red;
+  font-size: 50px;
+  font-weight: 900px;
+  background-color: black;
+}
+
+#coba2 {
+  color: red;
+  font-size: 50px;
+  font-weight: 900px;
+  /* background-color: black; */
+}
+
+* {
+  margin-left: 50px;
+}
+
+a[target="_blank"] {
+  color: red;
+  background-color: pink;
+  font-size: larger;
+}
+
+div p {
+  color: red;
+  font-size: 50px;
+  font-weight: 900px;
+  background-color: black;
+}
+div div {
+  color: red;
+  font-size: 50px;
+  font-weight: 900px;
+  background-color: black;
+}
+
+div > p {
+  color: yellow;
+}
+
+div + p {
+  color: rgb(70, 70, 209);
+}
+
+div ~ p {
+  color: green;
+}
+
+/* p:hover {
+  color: orange;
+  font-size: 40px;
+} */
+
+p::first-line {
+  font-size: 80px;
+}
