@@ -1,3 +1,1 @@
-## Hi I'm Putra 👋
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=putraalrifki&show_icons=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Hi+I'm+Putra+Al+Rifki;Informatics+Student;Web+Developer)
