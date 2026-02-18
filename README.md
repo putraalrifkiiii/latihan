@@ -3,3 +3,4 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=putraalrifkiiii)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=putraalrifkiiii&theme=onedark)
+![Visitor Badge](https://komarev.com/ghpvc/?username=putraalrifki)
